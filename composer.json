@@ -4,7 +4,8 @@
         "psr-4": {
             "App\\Models\\": "src/app/models",
             "App\\Utils\\":"src/app/utils",
-            "App\\Controller\\":"src/app/controller"
+            "App\\Controller\\":"src/app/controller",
+            "App\\Interface\\":"src/app/interface"
         }
     },
     "authors": [
